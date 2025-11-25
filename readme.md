@@ -9,5 +9,5 @@ bonus goal: compare the names with existing lists backup contacts 1-8.
 ## steps:
 1. get full list of contacts from mac's contact app (done)
 2. export it into aforementioned format (done)
-3. add list to notes app (kind of...)
+3. add list to notes app (done)
 4. bonus: normalize backup contacts 1-8 and check for duplicates

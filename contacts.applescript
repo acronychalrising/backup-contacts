@@ -26,8 +26,8 @@ end tell
 -- convert list to string with proper line breaks
 -- HTML force line breaks
 set contactHTML to "<html><body>"
-repeat with c in contactList
-    set contactHTML to contactHTML & c & "<br>"
+repeat with contact in contactList
+    set contactHTML to contactHTML & contact & "<br>"
 end repeat
 set contactHTML to contactHTML & "</body></html>"
 
